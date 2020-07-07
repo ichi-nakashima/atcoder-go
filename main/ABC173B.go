@@ -6,8 +6,13 @@ import (
 )
 
 func main() {
-	var N int
-	fmt.Scan(&N)
+
+	var H int
+	var W int
+	var K int
+	fmt.Scan(&H)
+	fmt.Scan(&W)
+	fmt.Scan(&K)
 
 	list := make([]string, N)
 	for i := 0; i < N; i++ {
