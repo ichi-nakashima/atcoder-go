@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d329e97-1002-4296-bb52-fe7944c68eb1" name="Default Changelist" comment="" />
+    <list default="true" id="6d329e97-1002-4296-bb52-fe7944c68eb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main/ABC173C.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Assertions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Name.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Person.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/interface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/interface2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/switches.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +59,7 @@
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -40,37 +68,120 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/main" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/main" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build switches.go">
+    <configuration name="go build Assertions.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="atcoder-go" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/main/main.go" />
+      <filePath value="$PROJECT_DIR$/main/Assertions.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build interface2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="atcoder-go" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/interface2.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build interface.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="atcoder-go" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/interface.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build name.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="atcoder-go" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/name.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build switches.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="atcoder-go" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main/switches.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build switches.go" />
+        <item itemvalue="Go Build.go build Assertions.go" />
+        <item itemvalue="Go Build.go build interface2.go" />
+        <item itemvalue="Go Build.go build interface.go" />
+        <item itemvalue="Go Build.go build name.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="381" y="324" key="#GOROOT" timestamp="1594094566603">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="381" y="324" key="#GOROOT/0.23.1792.1097@0.23.1792.1097" timestamp="1594094566603" />
+    <state width="929" height="192" key="GridCell.Tab.0.bottom" timestamp="1594202942939">
+      <screen x="0" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="929" height="192" key="GridCell.Tab.0.bottom/-1920.-1057.1920.1057/0.-1057.1920.1057/0.23.1792.1097@0.-1057.1920.1057" timestamp="1594202942939" />
+    <state width="929" height="192" key="GridCell.Tab.0.center" timestamp="1594202942938">
+      <screen x="0" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="929" height="192" key="GridCell.Tab.0.center/-1920.-1057.1920.1057/0.-1057.1920.1057/0.23.1792.1097@0.-1057.1920.1057" timestamp="1594202942938" />
+    <state width="929" height="192" key="GridCell.Tab.0.left" timestamp="1594202942937">
+      <screen x="0" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="929" height="192" key="GridCell.Tab.0.left/-1920.-1057.1920.1057/0.-1057.1920.1057/0.23.1792.1097@0.-1057.1920.1057" timestamp="1594202942937" />
+    <state width="929" height="192" key="GridCell.Tab.0.right" timestamp="1594202942938">
+      <screen x="0" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="929" height="192" key="GridCell.Tab.0.right/-1920.-1057.1920.1057/0.-1057.1920.1057/0.23.1792.1097@0.-1057.1920.1057" timestamp="1594202942938" />
+    <state x="1037" y="-921" width="586" height="822" key="find.popup" timestamp="1594173957056">
+      <screen x="0" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="1037" y="-921" width="586" height="822" key="find.popup/-1920.-1057.1920.1057/0.-1057.1920.1057/0.23.1792.1097@0.-1057.1920.1057" timestamp="1594173957056" />
+    <state x="995" y="-854" width="670" height="676" key="search.everywhere.popup" timestamp="1594178863953">
+      <screen x="0" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="995" y="-854" width="670" height="676" key="search.everywhere.popup/-1920.-1057.1920.1057/0.-1057.1920.1057/0.23.1792.1097@0.-1057.1920.1057" timestamp="1594178863953" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main/interface2.go</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
