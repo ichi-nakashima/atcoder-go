@@ -20,7 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d329e97-1002-4296-bb52-fe7944c68eb1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/Assertions.go" beforeDir="false" afterPath="$PROJECT_DIR$/studyatourofgo/Assertions.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/Name.go" beforeDir="false" afterPath="$PROJECT_DIR$/studyatourofgo/Name.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/Person.go" beforeDir="false" afterPath="$PROJECT_DIR$/studyatourofgo/Person.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/interface.go" beforeDir="false" afterPath="$PROJECT_DIR$/studyatourofgo/interface.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/interface2.go" beforeDir="false" afterPath="$PROJECT_DIR$/studyatourofgo/interface2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/switches.go" beforeDir="false" afterPath="$PROJECT_DIR$/studyatourofgo/switches.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +69,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/studyatourofgo" />
       <recent name="$PROJECT_DIR$/main" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -173,7 +179,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/main/interface2.go</url>
+          <url>file://$PROJECT_DIR$/studyatourofgo/interface2.go</url>
           <line>43</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
